@@ -14,3 +14,7 @@ This microservice is used for creating and managing products. The CRUD operation
 
 ## User microservice
 User microservice is responsible for signing in or signing out processes and edititng user profile.
+
+----------
+## Postman documentation link:
+[Click to see Postman documentation](https://documenter.getpostman.com/view/26515851/2s946ibqpG#be446c32-c82b-4a52-99cf-17de133f776a)
